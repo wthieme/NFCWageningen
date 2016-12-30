@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f33b9d1e7af8cd1536dac4d08177a8fd7ccd7bd6">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_836b47e21a6a13abe5867064b7c337f256fbba95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_5241d350f18abf6d5bae12e3bc352402fefe7157\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_70191270f4a1de8aa0459480ee776474686e7545\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_fb71ed66682806f5cc7b30f6c6afeb161e885a9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f530ec2a5c46540290b81baa38ac15a100f8ccdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0b17583d8d141c6d6fb741c2275517ea404b1e58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_d070e2dea4960aba0eeaacd8302c3e6fe133e85f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_23de83d0b3294fba5d3419a82974463d5bbb2146\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_51a02dc1b95cd548a952b81ff6b76eee77cbcdd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ab1fe9cdc632c3ab7ddf0c359056bacd9da592d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5c14e146b02e6cc340eda49278895b4dd5bb6597\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_8515741e4ac3c455f0f90a30d7dcfa1c02123662\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_d5bf714e244ba43fa1ee123ae5ba31415fe29133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a86a05c96aff1d42ba140d19e5c60f348efa2316">
+        <dex dex="C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0ae947f164ec4491711385f70ba92495918bc7f6\classes.dex" />
+    </item>
+
+</items>

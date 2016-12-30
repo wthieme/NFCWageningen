@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFCWageningen</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="Log">Log</string>
+    <string name="Gebruikersnaam"></string>
+    <string name="Free">Free</string>
+    <string name="Melding">Melding</string>
+    <string name="Opnieuw">Geluid opnieuw afspelen</string>
+    <string name="FreeBytes">Free: %d</string>
+    <string name="LogCache">Log %s</string>
+
+</resources>
