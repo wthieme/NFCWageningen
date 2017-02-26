@@ -12,6 +12,7 @@ import java.util.Collections;
 
 import nl.whitedove.nfcwageningen.LogBoek.StatusLogBoek;
 
+import android.Manifest;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.nfc.NdefMessage;
@@ -31,6 +32,8 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
+import android.support.annotation.NonNull;
+import android.support.v4.app.ActivityCompat;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -48,6 +51,7 @@ public class MainActivity extends Activity {
     private static final String Gevonden = "gevonden.txt";
     private static final int PENDING_INTENT_TECH_DISCOVERED = 1;
     private static MediaPlayer mp;
+    static final int MY_PERMISSIONS_REQUEST_NFC = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -274,6 +278,7 @@ public class MainActivity extends Activity {
 
     private void CheckNfcHardwareAndStatus() {
         PackageManager pm = getPackageManager();
+
         if (!pm.hasSystemFeature(PackageManager.FEATURE_NFC)) {
             logBoek.setFoutTekst("Deze telefoon heeft geen NFC chip. U kunt niet loggen met NFC");
             return;
