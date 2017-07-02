@@ -25,12 +25,12 @@ ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\And
 		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:7:9-44
 application
 ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:10:5-25:19
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Wilhelm\.android\build-cache\341b99e6db07e4734c08a504e9556b5aa6261f04\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Wilhelm\.android\build-cache\d93d9fbad67a79981b208b4ef599462c5b4363fe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Wilhelm\.android\build-cache\c875f3c5d2248dc3e817958ab60a45057a593fc6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Wilhelm\.android\build-cache\1884303af8dcbb393723fa19a9d1314ab11d5972\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Wilhelm\.android\build-cache\3cc1b4a816df857b7ef04da608b0f1fdd9585dea\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Wilhelm\.android\build-cache\92b3596af59c8eb08786fb9bd1a6c323d9f0e16f\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:13:9-41
 	android:allowBackup
@@ -61,17 +61,28 @@ ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\And
 		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:24:19-76
 uses-sdk
 INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Wilhelm\.android\build-cache\341b99e6db07e4734c08a504e9556b5aa6261f04\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Wilhelm\.android\build-cache\d93d9fbad67a79981b208b4ef599462c5b4363fe\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Wilhelm\.android\build-cache\c875f3c5d2248dc3e817958ab60a45057a593fc6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Wilhelm\.android\build-cache\1884303af8dcbb393723fa19a9d1314ab11d5972\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Wilhelm\.android\build-cache\3cc1b4a816df857b7ef04da608b0f1fdd9585dea\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Wilhelm\.android\build-cache\92b3596af59c8eb08786fb9bd1a6c323d9f0e16f\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Wilhelm\.android\build-cache\341b99e6db07e4734c08a504e9556b5aa6261f04\output\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Wilhelm\.android\build-cache\341b99e6db07e4734c08a504e9556b5aa6261f04\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Wilhelm\.android\build-cache\d93d9fbad67a79981b208b4ef599462c5b4363fe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Wilhelm\.android\build-cache\c875f3c5d2248dc3e817958ab60a45057a593fc6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Wilhelm\.android\build-cache\1884303af8dcbb393723fa19a9d1314ab11d5972\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Wilhelm\.android\build-cache\3cc1b4a816df857b7ef04da608b0f1fdd9585dea\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Wilhelm\.android\build-cache\92b3596af59c8eb08786fb9bd1a6c323d9f0e16f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Wilhelm\.android\build-cache\341b99e6db07e4734c08a504e9556b5aa6261f04\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Wilhelm\.android\build-cache\341b99e6db07e4734c08a504e9556b5aa6261f04\output\AndroidManifest.xml:26:9-47
