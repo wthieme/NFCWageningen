@@ -45,8 +45,8 @@ class CustomListAdapter extends BaseAdapter {
         if (convertView == null) {
             convertView = layoutInflater.inflate(R.layout.row_list_layout, parent, false);
             holder = new ViewHolder();
-            holder.cacherView = (TextView) convertView.findViewById(R.id.cacher);
-            holder.datumView = (TextView) convertView.findViewById(R.id.datum);
+            holder.cacherView = convertView.findViewById(R.id.cacher);
+            holder.datumView = convertView.findViewById(R.id.datum);
             convertView.setTag(holder);
         } else {
             holder = (ViewHolder) convertView.getTag();

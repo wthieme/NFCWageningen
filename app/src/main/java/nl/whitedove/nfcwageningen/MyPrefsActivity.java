@@ -16,7 +16,7 @@ public class MyPrefsActivity extends PreferenceActivity implements
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		addPreferencesFromResource(R.xml.instellingen);
-		openPreference("Gebruikersnaam");
+		openPreference();
 	}
 
 	@Override
@@ -78,10 +78,10 @@ public class MyPrefsActivity extends PreferenceActivity implements
 	}
 
 	@SuppressWarnings("deprecation")
-	private void openPreference(String key) {
-		PreferenceScreen screen = findPreferenceScreenForPreference(key, null);
+	private void openPreference() {
+		PreferenceScreen screen = findPreferenceScreenForPreference("Gebruikersnaam", null);
 		if (screen != null) {
-			screen.onItemClick(null, null, findPreference(key).getOrder(), 0);
+			screen.onItemClick(null, null, findPreference("Gebruikersnaam").getOrder(), 0);
 		}
 	}
 }

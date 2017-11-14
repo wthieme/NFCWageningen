@@ -1,5 +1,32 @@
 package nl.whitedove.nfcwageningen;
 
+import android.annotation.SuppressLint;
+import android.app.Activity;
+import android.app.PendingIntent;
+import android.content.Context;
+import android.content.Intent;
+import android.content.IntentFilter;
+import android.content.SharedPreferences;
+import android.content.pm.PackageManager;
+import android.media.AudioManager;
+import android.media.MediaPlayer;
+import android.nfc.NdefMessage;
+import android.nfc.NdefRecord;
+import android.nfc.NfcAdapter;
+import android.nfc.NfcManager;
+import android.nfc.Tag;
+import android.nfc.tech.Ndef;
+import android.os.Bundle;
+import android.os.Parcelable;
+import android.preference.PreferenceManager;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
+import android.widget.ListView;
+import android.widget.TextView;
+import android.widget.Toast;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -12,36 +39,6 @@ import java.util.Collections;
 
 import nl.whitedove.nfcwageningen.LogBoek.StatusLogBoek;
 
-import android.Manifest;
-import android.media.AudioManager;
-import android.media.MediaPlayer;
-import android.nfc.NdefMessage;
-import android.nfc.NdefRecord;
-import android.nfc.NfcAdapter;
-import android.nfc.NfcManager;
-import android.nfc.Tag;
-import android.nfc.tech.Ndef;
-import android.os.Bundle;
-import android.os.Parcelable;
-import android.preference.PreferenceManager;
-import android.annotation.SuppressLint;
-import android.app.Activity;
-import android.app.PendingIntent;
-import android.content.Context;
-import android.content.Intent;
-import android.content.IntentFilter;
-import android.content.SharedPreferences;
-import android.content.pm.PackageManager;
-import android.support.annotation.NonNull;
-import android.support.v4.app.ActivityCompat;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.widget.Button;
-import android.widget.ListView;
-import android.widget.TextView;
-import android.widget.Toast;
-
 public class MainActivity extends Activity {
     SharedPreferences preferences;
 
@@ -51,7 +48,6 @@ public class MainActivity extends Activity {
     private static final String Gevonden = "gevonden.txt";
     private static final int PENDING_INTENT_TECH_DISCOVERED = 1;
     private static MediaPlayer mp;
-    static final int MY_PERMISSIONS_REQUEST_NFC = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -69,7 +65,7 @@ public class MainActivity extends Activity {
 
         setContentView(R.layout.activity_main);
 
-        Button button = (Button) findViewById(R.id.button1);
+        Button button = findViewById(R.id.button1);
 
         button.setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v) {
@@ -187,14 +183,14 @@ public class MainActivity extends Activity {
         // Zet de FTF etc
         setFtf(logBoek.getLogLijst());
 
-        final TextView tv1 = (TextView) findViewById(R.id.textView1);
+        final TextView tv1 = findViewById(R.id.textView1);
         tv1.setText(String.format(getResources().getString(R.string.LogCache), logBoek.getCacheNaam()));
 
-        final TextView tv2 = (TextView) findViewById(R.id.textView2);
+        final TextView tv2 = findViewById(R.id.textView2);
         tv2.setText(String.format(getResources().getString(R.string.FreeBytes), logBoek.getFreeBytes()));
 
         if (logBoek.getLogLijst() != null) {
-            final ListView lv1 = (ListView) findViewById(R.id.listView1);
+            final ListView lv1 = findViewById(R.id.listView1);
             lv1.setAdapter(new CustomListAdapter(this, logBoek.getLogLijst()));
         }
         ToonMelding();
@@ -272,7 +268,7 @@ public class MainActivity extends Activity {
         if (!mp.isPlaying()) {
             mp.start();
         }
-        Button button = (Button) findViewById(R.id.button1);
+        Button button = findViewById(R.id.button1);
         button.setVisibility(View.VISIBLE);
     }
 
@@ -503,6 +499,7 @@ public class MainActivity extends Activity {
 
     private void CheckVolume() {
         AudioManager audio = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
+        assert audio != null;
         int actVol = audio.getStreamVolume(AudioManager.STREAM_MUSIC);
         int maxVol = audio.getStreamMaxVolume(AudioManager.STREAM_MUSIC);
         String vol = "(" + actVol + "/" + maxVol + ")";
@@ -532,7 +529,7 @@ public class MainActivity extends Activity {
 
     private void ToonMelding() {
 
-        final TextView tv3 = (TextView) findViewById(R.id.textView3);
+        final TextView tv3 = findViewById(R.id.textView3);
         ArrayList<LogItem> ll = logBoek.getLogLijst();
         if (ll != null && !ll.isEmpty()) {
             tv3.setText("");
