@@ -1,124 +1,116 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
-MERGED from [com.android.support:design:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\1a3f72f62747917881ce930371811eb0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\45a98be654b46f2da69f880e39b9bca3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\7c0e807d836ee1c34acd5ba82dec7656\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\018695b5d840ead1cd3a52c951903fb0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\185b19196c97557333de8b92a6f2c88e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\4c7d51f7e1635cb14a4999bf716490f0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\1fbbaf2a6684774d5f164b783e38ea40\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\3ecafe5eb58b18d6638f919bfd792d00\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\a2c7aad0e55a0d913c9e5cdd8fa108da\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\c4c8314485141ab480c61b7a7c52482d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\2655fafc9bf76931c4a5efac71dbcf38\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\80bb9496023459c151bafb718effbb80\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c796ac5cded2aada374428bb15100cb0\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\1e0eace6998f549e23a597436976dc51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\9c6f5309c79569448e7538dd5bf56419\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\4ed02df7cd587a967ec510f6b531bd8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\e3a92f38797fb2080d0d9b4071022276\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\58e0b48c0be73fcc30451e12c3531f57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\dc565dc683d077e605c4693fb5ef322e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\e2a9c413a56c9420906f20862960f171\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\21ace52e0f63553e0b011f72f3cd9439\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\90a80d6ccecfa196390205307c592836\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\a858589cfcb94e9e99d5a6ac5961de66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\451b08d2ff9cd3b562f4770c0f9a5d29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\617925ebcaee1dbc06126a17a6a527f8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\bdc40f5e40d21db85563643e54d23168\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.NFC
-ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:5:5-62
+ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:5:5-62
 	android:name
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:5:22-59
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:5:22-59
 uses-feature#android.hardware.nfc
-ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:6:5-8:35
+ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:6:5-8:35
 	android:required
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:8:9-32
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:8:9-32
 	android:name
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:7:9-44
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:7:9-44
 application
-ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:10:5-25:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c796ac5cded2aada374428bb15100cb0\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c796ac5cded2aada374428bb15100cb0\AndroidManifest.xml:24:5-28:19
+ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:10:5-25:19
 	android:label
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:13:9-41
 	android:icon
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:12:9-45
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:12:9-45
 	android:allowBackup
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:14:9-40
 activity#nl.whitedove.nfcwageningen.MainActivity
-ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:15:9-23:20
+ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:15:9-23:20
 	android:label
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:17:13-45
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:17:13-45
 	android:name
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:16:13-67
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:16:13-67
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:19:13-22:29
+ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:21:27-74
 activity#nl.whitedove.nfcwageningen.MyPrefsActivity
-ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:24:9-79
+ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:24:9-79
 	android:name
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:24:19-76
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml:24:19-76
 uses-sdk
-INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\1a3f72f62747917881ce930371811eb0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\1a3f72f62747917881ce930371811eb0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\45a98be654b46f2da69f880e39b9bca3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\45a98be654b46f2da69f880e39b9bca3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\7c0e807d836ee1c34acd5ba82dec7656\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\7c0e807d836ee1c34acd5ba82dec7656\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\018695b5d840ead1cd3a52c951903fb0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\018695b5d840ead1cd3a52c951903fb0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\185b19196c97557333de8b92a6f2c88e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\185b19196c97557333de8b92a6f2c88e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\4c7d51f7e1635cb14a4999bf716490f0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\4c7d51f7e1635cb14a4999bf716490f0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\1fbbaf2a6684774d5f164b783e38ea40\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\1fbbaf2a6684774d5f164b783e38ea40\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\3ecafe5eb58b18d6638f919bfd792d00\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\3ecafe5eb58b18d6638f919bfd792d00\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\a2c7aad0e55a0d913c9e5cdd8fa108da\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\a2c7aad0e55a0d913c9e5cdd8fa108da\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\c4c8314485141ab480c61b7a7c52482d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\c4c8314485141ab480c61b7a7c52482d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\2655fafc9bf76931c4a5efac71dbcf38\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\2655fafc9bf76931c4a5efac71dbcf38\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\80bb9496023459c151bafb718effbb80\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\80bb9496023459c151bafb718effbb80\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c796ac5cded2aada374428bb15100cb0\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c796ac5cded2aada374428bb15100cb0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\1e0eace6998f549e23a597436976dc51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\1e0eace6998f549e23a597436976dc51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\9c6f5309c79569448e7538dd5bf56419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\9c6f5309c79569448e7538dd5bf56419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\4ed02df7cd587a967ec510f6b531bd8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\4ed02df7cd587a967ec510f6b531bd8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\e3a92f38797fb2080d0d9b4071022276\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\e3a92f38797fb2080d0d9b4071022276\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\58e0b48c0be73fcc30451e12c3531f57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\58e0b48c0be73fcc30451e12c3531f57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\dc565dc683d077e605c4693fb5ef322e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\dc565dc683d077e605c4693fb5ef322e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\e2a9c413a56c9420906f20862960f171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\e2a9c413a56c9420906f20862960f171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\21ace52e0f63553e0b011f72f3cd9439\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\21ace52e0f63553e0b011f72f3cd9439\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\90a80d6ccecfa196390205307c592836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\90a80d6ccecfa196390205307c592836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\a858589cfcb94e9e99d5a6ac5961de66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\a858589cfcb94e9e99d5a6ac5961de66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\451b08d2ff9cd3b562f4770c0f9a5d29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\451b08d2ff9cd3b562f4770c0f9a5d29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\617925ebcaee1dbc06126a17a6a527f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\617925ebcaee1dbc06126a17a6a527f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\bdc40f5e40d21db85563643e54d23168\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\bdc40f5e40d21db85563643e54d23168\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Wilhelm\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
-meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c796ac5cded2aada374428bb15100cb0\AndroidManifest.xml:25:9-27:47
-	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c796ac5cded2aada374428bb15100cb0\AndroidManifest.xml:27:13-44
-	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Wilhelm\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c796ac5cded2aada374428bb15100cb0\AndroidManifest.xml:26:13-58
+		INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\NFCWageningen\app\src\main\AndroidManifest.xml
